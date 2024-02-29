@@ -3,11 +3,14 @@
 ## Task Agnostic Datasets
 * [Bengali Word List](https://www.kaggle.com/datasets/makatronium/banglawordlist2023)
 * [CC-100](https://data.statmt.org/cc-100/)
+* [Google's C4 dataset](https://huggingface.co/datasets/allenai/c4/viewer/bn)
+
 * **Wikipidia Dump Dataset**
     * [Official Page](https://dumps.wikimedia.org/bnwiki/latest/)
     * [Kaggle Dataset](https://www.kaggle.com/abyaadrafid/bnwiki)
 * [OSCAR](https://oscar-project.org/)
 * **News Paper Scraped Datasets**
+    * [Potrika: Large Bangla Newspaper Datasets with Eight Topics and Five Attributes](https://www.kaggle.com/datasets/sabbirhossainujjal/potrika-bangla-newspaper-datasets)
     * [Bangladesh Protidin News Dataset](https://www.kaggle.com/shakirulhasan/bangla-news-datasets-from-bdpratidin)
     * [Bengali Newspaper dataset for topic modeling](https://www.kaggle.com/zshujon/40k-bangla-newspaper-article)
     * [Prothom-alo, Jugantor, Ittefaq News Dataset](https://www.kaggle.com/ebiswas/bangla-largest-newspaper-dataset)
@@ -19,19 +22,23 @@
 * [Samanantar](https://ai4bharat.iitm.ac.in//samanantar/)
 * [IndicCorp](https://paperswithcode.com/dataset/indiccorp)
 * [Bengali Poetry Dataset](https://www.kaggle.com/datasets/truthr/free-bengali-poetry)
-* [Bengali Medical Dataset](www.kaggle.com/datasets/saurabhshahane/bengali-medical-dataset)
+* [Bengali Medical Dataset](https://www.kaggle.com/datasets/shashwatwork/bengali-medical-dataset)
 * [BanglaLM](https://www.kaggle.com/datasets/gakowsher/bangla-language-model-dataset)
-
-
+    * [Paper](https://ieeexplore.ieee.org/document/9544818)
 
 
 ## Classification Task Datasets
 * [Multilebel Text Classification](https://www.kaggle.com/datasets/kazitoufiqueelahi/nc-sentnob)
 * [News Headline Classification](https://github.com/eftekhar-hossain/Bangla-News-Headlines-Categorization)
 
+
 * **Sentiment/Emotion Analysis**
-    * [SentNoB](https://github.com/KhondokerIslam/SentNoB)
-    * [EmoNoBa](https://www.kaggle.com/datasets/saifsust/emonoba)
+    * [BanglaBook: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews](https://github.com/mohsinulkabir14/BanglaBook)
+    * [SentiGOLD:Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset](https://bangla.gov.bd/product/sentigold-dataset-v1/)
+    * [SentNoB:Dataset for Analysing Sentiment on Noisy Bangla Texts](https://github.com/KhondokerIslam/SentNoB)
+        * [Paper](https://aclanthology.org/2021.findings-emnlp.278.pdf)
+    * [EmoNoBa:Dataset for Analyzing Fine-Grained Emotions on Noisy Bangla Texts](https://www.kaggle.com/datasets/saifsust/emonoba)
+        * [Paper](https://aclanthology.org/2022.aacl-short.17.pdf)
     * [Emotion Corpus](https://www.kaggle.com/datasets/moshiurrahmanfaisal/bangla-ekman-six-emotion-dataset)
     * [Social Media Comments](https://github.com/cypher-07/Bangla-Text-Dataset)
     * [Toxic Comments](https://www.kaggle.com/datasets/tanveerbelaliut/multi-labeled-bengali-toxic-comments)
@@ -44,6 +51,7 @@
 
 * [Complain Classification](https://www.kaggle.com/datasets/tanvirrahmanaz/bangla-comment)
 * [Sarcasm Detection(BanglaSarc)](https://www.kaggle.com/datasets/sakibapon/banglasarc)
+* [Book Genre Classification](https://www.kaggle.com/competitions/nlp-competition-cuet-ete-day-2023/data)
 * [Movie Genre Classification](https://www.kaggle.com/datasets/sajjadhossaint/movie-plot-messages-in-bengali-dataset)
 * [Scientific Topic Classification](https://www.kaggle.com/datasets/fahmidanahiyan/scientific-bengali-text-classification-dataset)
 * [Song Lyrics Classification](https://www.kaggle.com/datasets/shakirulhasan/bangla-song-lyrics)
@@ -52,13 +60,16 @@
 
 
 
-
-
-
-
 ## NER Task Datasets
-* [B-NER](https://www.kaggle.com/datasets/mdzahidulhaquealvi/b-ner)
-* [Math Entity Recognition](https://www.kaggle.com/datasets/tanjimtaharataurpa/bangla-math-entity-recognition)
+* [Bengali Pos Tagging](https://github.com/banglanlp/bnlp-resources/tree/main/pos)
+* [B-NER: Largest Bangla Bangla Named Entity Recognition Dataset](https://www.kaggle.com/datasets/mdzahidulhaquealvi/b-ner)
+    * [Paper](https://ieeexplore.ieee.org/document/10103464)
+* [Bengali Complex Named Entity Recognition Dataset](https://github.com/ramisa2108/Bangla-Complex-Named-Entity-Recognition-Challenge)
+    * [Code](https://github.com/ramisa2108/Bangla-Complex-Named-Entity-Recognition-Challenge)
+
+* [Math Entity Recognition Dataset](https://www.kaggle.com/datasets/tanjimtaharataurpa/bangla-math-entity-recognition)
+* [Bengali Person Name Extraction Dataset](https://huggingface.co/datasets/celloscopeai/bangla_ner_dataset)
+    * [Code](https://github.com/VirusProton/Bengali-Person-Name-Extractor)
 
 ## Translation Task Datasets
 * EN - BN
