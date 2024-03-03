@@ -1,4 +1,19 @@
 # Bengali-NLP-Datasets
+## Table of Contents
+- [Bengali Person Name Extractor](#bengali-nlp-datasets)
+  - [Table of Contents](#table-of-contents)
+  - [Task Agnostic Datasets](#task-agnostic-datasets)
+  - [Classification Task Datasets](#classification-task-dataset)
+  - [Bengali NER Task Datasets](#bengali-ner-task-datasets)
+  - [Bengali Translation Task Datasets](#bengali-translation-task-datasets)
+  - [Bengali Summarization Datasets](#bengali-summarization-datasets)
+  - [Bengali Question Answering Dataset](#bengali-question-answering-dataset)
+  - [Bengali Lemmatization Dataset](#bengali-lemmatization-dataset)
+  - [Bengali Identity Bias Evaluation Dataset (BIBED)](#bengali-Identity-Bias-Evaluation-Data-BIBED)
+  - [Bengali ASR Datasets](#bengali-asr-datasets)
+  - [Bengali TTS Datasets](#bengali-tts-datasets)
+  - [Bengali OCR Datasets](#bengali-ocr-datasets)
+
 
 ## Task Agnostic Datasets
 * [Bengali Word List](https://www.kaggle.com/datasets/makatronium/banglawordlist2023)
@@ -27,7 +42,7 @@
     * [Paper](https://ieeexplore.ieee.org/document/9544818)
 
 
-## Classification Task Datasets
+## Bengali Classification Task Datasets
 * [Multilebel Text Classification](https://www.kaggle.com/datasets/kazitoufiqueelahi/nc-sentnob)
 * [News Headline Classification](https://github.com/eftekhar-hossain/Bangla-News-Headlines-Categorization)
 
@@ -60,7 +75,7 @@
 
 
 
-## NER Task Datasets
+## Bengali NER Task Datasets
 * [Bengali Pos Tagging](https://github.com/banglanlp/bnlp-resources/tree/main/pos)
 * [B-NER: Largest Bangla Bangla Named Entity Recognition Dataset](https://www.kaggle.com/datasets/mdzahidulhaquealvi/b-ner)
     * [Paper](https://ieeexplore.ieee.org/document/10103464)
@@ -71,13 +86,13 @@
 * [Bengali Person Name Extraction Dataset](https://huggingface.co/datasets/celloscopeai/bangla_ner_dataset)
     * [Code](https://github.com/VirusProton/Bengali-Person-Name-Extractor)
 
-## Translation Task Datasets
+## Bengali Translation Task Datasets
 * EN - BN
     * [Samanantar](https://www.kaggle.com/datasets/mathurinache/samanantar)
 
 
 
-## Summarization Datasets
+## Bengali Summarization Datasets
 * [BenSum](https://github.com/tafseer-nayeem/BengaliSummarization)
 * [BUSUM-BNLP Dataset (Multi-Document Bangla Summary)](https://www.kaggle.com/datasets/marwanurtaj/busum-bnlp-dataset-multi-document-bangla-summary)
 
@@ -87,7 +102,7 @@
 * [Long Question Answer Dataset](https://www.kaggle.com/datasets/hasanccr92/banglatext)
 
 
-## Bangla Lemmatization Dataset
+## Bengali Lemmatization Dataset
 * [Dataset](https://www.kaggle.com/datasets/abdullaharean/bangla-lemmatization-dataset)
 
 ## Bengali Identity Bias Evaluation Dataset (BIBED)
@@ -97,11 +112,19 @@
 
 
 # Bengali ASR Datasets
-
+* [Open SLR](http://www.openslr.org/53)
+* [Bengali.AI Speech Recognition (OOD Dataset)](https://www.kaggle.com/competitions/bengaliai-speech)
+* [Shrutilipi](https://ai4bharat.iitm.ac.in/shrutilipi)
+* [Kathbath](https://huggingface.co/datasets/ai4bharat/kathbath)
+* [Kathbath Hard](https://github.com/AI4Bharat/vistaar?tab=readme-ov-file#download-training-datasets-and-benchmarks)
+* [FLEURS](https://huggingface.co/datasets/google/fleurs/viewer/bn_in)
+* [IndicTTS](https://github.com/AI4Bharat/vistaar?tab=readme-ov-file#download-training-datasets-and-benchmarks)
+* [ULCA](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus)
+* [MADASR](https://sites.google.com/view/respinasrchallenge2023/dataset?authuser=0)
 
 
 # Bengali TTS Datasets
-
+* [Open SLR Dataset](http://www.openslr.org/37)
 
 # Bengali OCR Datasets
 * [Bongabdo](https://www.kaggle.com/datasets/ayanwap7/bongabdo1429)
