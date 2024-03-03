@@ -1,5 +1,5 @@
 # Awesome Bengali Datasets
-In the evolving landscape of Artificial Intelligent and Deep learning, application using Bengali languages doesn't advanced that much. One of the main reason of that of limited dataset avaiablity and most of the datasets are scarce and outdated. This repository aims to address this gap by providing an updated collection of Bengali datasets for different area of Deep learning in Bengali Language.
+In the evolving landscape of Artificial Intelligent and Deep learning, application using Bengali languages doesn't advanced that much. One of the main reason of that of limited dataset availability and most of the datasets are scarce and outdated. This repository aims to address this gap by providing an updated collection of Bengali datasets for different area of Deep learning in Bengali Language.
 
 # Table of Contents
 - [Awesome Bengali Datasets](#awesome-bengali-datasets)
