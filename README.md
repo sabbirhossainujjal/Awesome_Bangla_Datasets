@@ -24,6 +24,7 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 
 ## Task Agnostic NLP Datasets
 * [Bengali Word List](https://www.kaggle.com/datasets/makatronium/banglawordlist2023)
+* [Bengali Stop Words](https://www.kaggle.com/datasets/sabbirhossainujjal/bengali-stop-words)
 * [CC-100](https://data.statmt.org/cc-100/)
 * [Google's C4 dataset](https://huggingface.co/datasets/allenai/c4/viewer/bn)
 
