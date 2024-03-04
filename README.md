@@ -179,6 +179,6 @@ title = {Awesome Bengali Datasets},
 year = {2024},
 publisher = {GitHub},
 journal = {GitHub Repository},
-howpublished = {https://github.com/VirusProton/Awesome_Bengali_Datasets.git}
+url = {https://github.com/VirusProton/Awesome_Bengali_Datasets.git}
 }
 ```
