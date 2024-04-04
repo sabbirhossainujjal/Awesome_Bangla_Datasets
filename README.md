@@ -24,7 +24,7 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 
 ## Task Agnostic NLP Datasets
 * [Bangla Word List](https://www.kaggle.com/datasets/makatronium/banglawordlist2023)
-* [Bangla Stop Words](https://www.kaggle.com/datasets/sabbirhossainujjal/bangla-stop-words)
+* [Bangla Stop Words](https://www.kaggle.com/datasets/sabbirhossainujjal/bengali-stop-words)
 * [CC-100](https://data.statmt.org/cc-100/)
 * [Google's C4 dataset](https://huggingface.co/datasets/allenai/c4/viewer/bn)
 
@@ -46,9 +46,9 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 
 * [Samanantar](https://ai4bharat.iitm.ac.in//samanantar/)
 * [IndicCorp](https://paperswithcode.com/dataset/indiccorp)
-* [Bangla Poetry Dataset](https://www.kaggle.com/datasets/truthr/free-bangla-poetry)
-* [Bangla Medical Dataset](https://www.kaggle.com/datasets/shashwatwork/bangla-medical-dataset)
-* [BanglaLM](https://www.kaggle.com/datasets/gakowsher/bangla-language-model-dataset)
+* [Bangla Poetry Dataset](https://www.kaggle.com/datasets/truthr/free-bengali-poetry)
+* [Bangla Medical Dataset](https://www.kaggle.com/datasets/shashwatwork/bengali-medical-dataset)
+* [BanglaLM](https://www.kaggle.com/datasets/gakowsher/bengali-language-model-dataset)
     * [Paper](https://ieeexplore.ieee.org/document/9544818)
 
 
@@ -66,7 +66,7 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
         * [Paper](https://aclanthology.org/2022.aacl-short.17.pdf)
     * [Emotion Corpus](https://www.kaggle.com/datasets/moshiurrahmanfaisal/bangla-ekman-six-emotion-dataset)
     * [Social Media Comments](https://github.com/cypher-07/Bangla-Text-Dataset)
-    * [Toxic Comments](https://www.kaggle.com/datasets/tanveerbelaliut/multi-labeled-bangla-toxic-comments)
+    * [Toxic Comments](https://www.kaggle.com/datasets/tanveerbelaliut/multi-labeled-bengali-toxic-comments)
     * [YouTube Comments](https://www.kaggle.com/datasets/nit003/bangla-youtube-sentiment-and-emotion-datasets)
     * [Facebook Comments](https://www.kaggle.com/datasets/smnuruzzaman/facebook-sentiment-analysis-bangla-language)
     * [Restaurant Reviews](https://www.kaggle.com/datasets/tuxboy/restaurant-reviews-in-dhaka-bangladesh)
@@ -77,8 +77,8 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 * [Complain Classification](https://www.kaggle.com/datasets/tanvirrahmanaz/bangla-comment)
 * [Sarcasm Detection(BanglaSarc)](https://www.kaggle.com/datasets/sakibapon/banglasarc)
 * [Book Genre Classification](https://www.kaggle.com/competitions/nlp-competition-cuet-ete-day-2023/data)
-* [Movie Genre Classification](https://www.kaggle.com/datasets/sajjadhossaint/movie-plot-messages-in-bangla-dataset)
-* [Scientific Topic Classification](https://www.kaggle.com/datasets/fahmidanahiyan/scientific-bangla-text-classification-dataset)
+* [Movie Genre Classification](https://www.kaggle.com/datasets/sajjadhossaint/movie-plot-messages-in-bengali-dataset)
+* [Scientific Topic Classification](https://www.kaggle.com/datasets/fahmidanahiyan/scientific-bengali-text-classification-dataset)
 * [Song Lyrics Classification](https://www.kaggle.com/datasets/shakirulhasan/bangla-song-lyrics)
 * [Fake News Detection](https://www.kaggle.com/datasets/cryptexcode/banfakenews)
 * [Spam SMS Detection](https://www.kaggle.com/datasets/faribatasniakhan/bangla-spam-sms)
@@ -114,7 +114,7 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 * [Bangla News Summarization](https://www.kaggle.com/datasets/prithwirajsust/bengali-news-summarization-dataset)
 
 ## Bangla Question Answering Dataset
-* [Bangla Q/A (SQuAD 2.0 Translation)](https://www.kaggle.com/datasets/mayeesha/bangla-question-answering-dataset)
+* [Bangla Q/A (SQuAD 2.0 Translation)](https://www.kaggle.com/datasets/mayeesha/bengali-question-answering-dataset)
 * [Bangla Short Question Answer Dataset](https://www.kaggle.com/datasets/lofiuiu/80k-bangla-qa-dataset)
 * [Long Question Answer Dataset](https://www.kaggle.com/datasets/hasanccr92/banglatext)
 * [BanglaRQA: Bangla Reading Comprehension-based Question Answering Dataset](https://github.com/sartajekram419/BanglaRQA?tab=readme-ov-file#dataset)
@@ -125,7 +125,7 @@ In the evolving landscape of Artificial Intelligent and Deep learning, applicati
 * [Dataset](https://www.kaggle.com/datasets/abdullaharean/bangla-lemmatization-dataset)
 
 ## Bangla Identity Bias Evaluation Dataset
-* [Dataset](https://www.kaggle.com/datasets/mayeesha/bangla-identity-bias-evaluation-dataset-bibed)
+* [Dataset](https://www.kaggle.com/datasets/mayeesha/bengali-identity-bias-evaluation-dataset-bibed)
 
 
 
